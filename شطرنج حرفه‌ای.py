@@ -1,0 +1,8 @@
+sh, v, r, f, a, s = input().split()
+sh = int(sh)
+v = int(v)
+r = int(r)
+f = int(f)
+a = int(a)
+s = int(s)
+print(1-sh, 1-v, 2-r, 2-f, 2-a, 8-s)
